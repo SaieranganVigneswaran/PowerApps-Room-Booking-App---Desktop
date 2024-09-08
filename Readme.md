@@ -30,8 +30,6 @@ This list is used for managing administrative users of the Room Booking applicat
 
 ## Connectors Used
 
-The Room Booking Application utilizes several connectors to integrate with various services and enhance functionality. Below is a description of the connectors used:
-
 | **Connector Name**     |
 | ---------------------- |
 | **Office 365 Outlook** |
