@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides details about the SharePoint lists used in the Room Booking Application. The application leverages two main lists to manage room bookings and admin functions.
+This document provides details about the SharePoint lists used in the Room Booking Application. The application leverages two main lists to manage room bookings and admin functions, and integrates with various connectors to enhance its functionality.
 
 ## SharePoint Lists
 
@@ -27,3 +27,13 @@ This list is used for managing administrative users of the Room Booking applicat
 | **Column Name** | **Type**                      | **Description**          |
 | --------------- | ----------------------------- | ------------------------ |
 | **Username**    | People picker (single select) | User profile information |
+
+## Connectors Used
+
+The Room Booking Application utilizes several connectors to integrate with various services and enhance functionality. Below is a description of the connectors used:
+
+| **Connector Name**     |
+| ---------------------- |
+| **Office 365 Outlook** |
+| **Office 365 Users**   |
+| **SharePoint**         |
